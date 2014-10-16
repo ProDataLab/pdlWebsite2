@@ -52,3 +52,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Qtcreator files
+*.config
+*.creator
+*.users
+*.files
+*.includes
+*.users
+
